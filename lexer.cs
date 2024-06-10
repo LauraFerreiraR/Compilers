@@ -14,8 +14,8 @@ namespace SimpleInterpreter.Lex
             protected set; 
             }
         public SymbolTable Symbols { 
-            get; p
-            rotected set; 
+            get; 
+            protected set; 
             }
 
         private char? currentChar;
