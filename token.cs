@@ -8,9 +8,11 @@ namespace SimpleInterpreter.Lex{
 
         public ETokenType TokenType { 
             get; 
-            set; }
+            set; 
+        }
         public int? TokenValue { 
             get; 
-            set; }
+            set; 
+        
     }
 }
