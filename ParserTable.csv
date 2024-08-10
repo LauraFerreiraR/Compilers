@@ -1,0 +1,5 @@
+,SUM,SUB,NUM,VAR,AT,OE,CE,EOF
+S,S -> E, , , , , , ,
+E,E -> T E',E -> T E',E -> T E', , ,E -> T E', ,
+T,T -> F T',T -> F T',T -> F T', , ,T -> F T', ,
+...
